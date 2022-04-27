@@ -1,4 +1,4 @@
-<h1><center> 程序员延寿指南 </h1></center>
+<h1><center> 程序员延寿指南-ACM </h1></center>
 
 ---
 
@@ -76,7 +76,7 @@
   * [JAMA子刊：食用红肉和加工肉类会增加心脏病和死亡风险！鱼肉和家禽肉则不会](https://zhuanlan.zhihu.com/p/268401670)
     * 出处：[Associations of Processed Meat, Unprocessed Red Meat, Poultry, or Fish Intake With Incident Cardiovascular Disease and All-Cause Mortality](https://jamanetwork.com/journals/jamainternalmedicine/articlepdf/2759737/jamainternal_zhong_2020_oi_190112.pdf)
     * 增加红肉摄入与死亡风险相关。八年内平均每天增加至少半份红肉摄入（半份红肉相当于14g加工红肉或40g非加工红肉）的调查对象，在接下来八年内全因死亡风险增加10％（HR, 1.10; 95%CI, 1.04-1.17）；每周吃两份红肉或加工肉类（但不包括家禽或鱼类）会使全因死亡风险增加3%
-    * ![红肉](https://user-images.githubusercontent.com/2707039/163703960-6f321de5-4daa-4ea5-95b9-af9c96f1c1bc.jpg)
+    * ![红肉](https://s3.bmp.ovh/imgs/2022/04/27/396fd44550f5ddb1.png)
   * [红肉和白肉最大的区别是什么？为啥要这么分呢？](https://www.zhihu.com/question/67223570/answer/809785380)
 * 蔬果
   * [每年54万人死亡，竟是因为水果吃得少！？这已成十大死亡因素之一！](https://www.sohu.com/a/322360740_164924)
@@ -85,7 +85,7 @@
   * [《自然》子刊：每天二两西兰花，健康长寿都有啦！分析近6万人23年的数据发现，吃含黄酮类食物与死亡风险降低20%相关丨临床大发现](https://mp.weixin.qq.com/s/E6BAi-Vnhr1jXBm0Pys2ZQ)
     * 出处：[Flavonoid intake is associated with lower mortality in the Danish Diet Cancer and Health Cohort](https://www.nature.com/articles/s41467-019-11622-x)
     * 吃含黄酮类食物与死亡风险降低20%相关
-    * ![黄酮](https://user-images.githubusercontent.com/2707039/163703969-42e64f88-e727-4e7d-85f2-07a92e29b613.jpg)
+    * ![黄酮](https://s3.bmp.ovh/imgs/2022/04/27/aac3f0bb74e3793c.jpg)
     * Bondonno博士说道“吃不同蔬菜、水果补充，不同种类的黄酮类化合物是很重要的，这很容易通过饮食实现：一杯茶、一个苹果、一个橘子、100克蓝莓，或100克西兰花，就能提供各种黄酮类化合物，并且总含量超过500毫克。
 * 辣椒
   * [辣椒成死亡克星？据调研，常吃辣患病死亡风险可降低61%](https://3g.163.com/dy/article/F6Q7I1ME053228ZU.html)
@@ -106,7 +106,7 @@
 * 钠（存有大量争议）
   * [Eur Heart J：钠摄入量与预期寿命、全因死亡率的关系](https://nursing.medsci.cn/article/show_article.do;jsessionid=A34E8A33918A152CB55BDD2E5FB1798D?id=afe720486ee7)
     * 出处：[Messerli F H, Hofstetter L, Syrogiannouli L, et al. Sodium intake, life expectancy, and all-cause mortality[J]. European heart journal, 2021, 42(21): 2103-2112.](https://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC8169157&blobtype=pdf)
-    * ![ehaa947f6](https://user-images.githubusercontent.com/2707039/164894778-9710f18d-e055-4f62-bdcb-618687771d77.jpeg)
+    * ![ehaa947f6](https://s3.bmp.ovh/imgs/2022/04/27/747afc346d72a9f1.jpeg)
     * 在该分析所包含的181个国家中，研究人员发现钠摄入量与出生时的健康预期寿命（β=2.6年/克每日钠摄入量，R2=0.66，P<0.001）和60岁时的健康预期寿命（β=0.3年/克每日钠摄入量，R2=0.60，P=0.048）之间存在正相关关系，但与非传染性疾病死亡（β=17次事件/克每日钠摄入量，R2=0.43，P=0.100）无关。相反，全因死亡率与钠摄入量成负相关（β=−131次事件/克每日钠摄入量，R2=0.60，P<0.001）。在仅限于46个收入最高国家的敏感性分析中，钠摄入量与出生时的健康预期寿命呈正相关（β=3.4年/克每日钠摄入量，R2=0.53，P<0.001），而与全因死亡率（β=−168次事件/克每日钠摄入量，R2=0.50，P<0.001）呈负相关。
     * 该（大范围）研究认为更多的钠摄入与显著更低的全因死亡率有关
     * [针对该论文的延伸解读和讨论：A Fresh Foray in the Salt Wars: Life Expectancy Higher With Greater Sodium Intake](https://www.tctmd.com/news/fresh-foray-salt-wars-life-expectancy-higher-greater-sodium-intake)
@@ -116,19 +116,19 @@
   * [低碳生酮饮食（四）碳水化合物与长期死亡率](https://zhuanlan.zhihu.com/p/137815934)
     * 出处：The Lancet Public Health - [Dietary carbohydrate intake and mortality: a prospective cohort study and meta-analysis](https://www.sciencedirect.com/science/article/pii/S246826671830135X)
     * 碳水越低，寿命越短；碳水越高，寿命也轻微缩短；碳水50%左右（其实按照一般的说法，这也算高碳水）是最长寿命区间 
-    * ![碳水](https://user-images.githubusercontent.com/2707039/163703985-a2e2f8ac-101a-4f3c-903b-6850507f144b.jpg)
+    * ![碳水](https://s3.bmp.ovh/imgs/2022/04/27/a25a93a639a98227.png)
   * [最强营养搭配！BMJ：这么吃，心血管疾病和死亡风险更低](https://www.chinacdc.cn/gwxx/202003/t20200323_214639.html)
 * 热量限制
   * [怎么看待BBC《进食、断食与长寿》？](https://www.zhihu.com/question/31395511)
     * 限制卡路里动物实验：CR（热量限制，即少吃）延迟了恒河猴的多种疾病发病和死亡率，与CR动物相比，正常喂养的猴子的各种疾病患病风险增加2.9倍，死亡风险增加3.0倍。
-    * ![热量限制-恒河猴](https://user-images.githubusercontent.com/2707039/163703988-8767185b-326a-4783-b2e2-f190322bb7d6.jpg)
+    * ![热量限制-恒河猴](https://s3.bmp.ovh/imgs/2022/04/27/34eefb2857d4a485.jpg)
 * 综合
   * [最强营养搭配！BMJ：这么吃，心血管疾病和死亡风险更低](https://www.chinacdc.cn/gwxx/202003/t20200323_214639.html)
     * 通过对这些参与者的数据进行分析，研究人员发现碳水化合物（糖、淀粉和纤维）和蛋白质的摄入与全因死亡率呈非线性关系，而脂肪则与全因死亡率呈线性相关。其中，较高的糖分摄入与全因死亡风险和患心血管疾病的风险较高均有关联，而较高的饱和脂肪酸摄入与全因死亡风险较高有关。
     * 图1：各种营养元素与全因死亡之间的关系
-    * ![各种营养元素与全因死亡之间的关系](https://user-images.githubusercontent.com/2707039/163702022-8c2bfea9-ed5d-4fe0-8ead-e8740014b92b.jpg)
+    * ![各种营养元素与全因死亡之间的关系](https://s3.bmp.ovh/imgs/2022/04/27/44b142ba3ddd38cf.png)
     * 图2：各种营养元素与心血管疾病之间的关系
-    * ![各种营养元素与心血管疾病之间的关系](https://user-images.githubusercontent.com/2707039/163702084-97fb4a03-707c-475d-b88e-6fe2f8e87f92.jpg)
+    * ![各种营养元素与心血管疾病之间的关系](https://s3.bmp.ovh/imgs/2022/04/27/e184d0769d3bea97.png)
     * **进一步研究表明，在所有的饮食模式中，全因死亡率风险最低的饮食方式为：10-30g高纤维、14-30%蛋白质、10-25%单不饱和脂肪酸、5%-7%多不饱和脂肪酸以及20%-30%淀粉摄入。**
     * **最优能量来源配比：<24%淀粉，15%-17%蛋白质，>15%单不饱和脂肪酸，<15%糖，6%饱和脂肪酸，6%多不饱和脂肪酸，30g+高纤维**
   * [BMJ | 常吃薯片汉堡巧克力等食品，平均死亡年龄仅仅为58岁，死亡风险剧增](https://med.ckcest.cn/details.html?id=5183272274855936&classesEn=news)
@@ -150,7 +150,7 @@
 * 无糖（甜味）饮料
   * [「无糖饮料使死亡风险增加 26 %」，是真的吗？](https://www.zhihu.com/question/418598272/answer/1450648364)
     * 相比于软饮料摄入量＜1杯/月的参与者，混合软饮料摄入≥1杯/天的参与者死亡风险增加18%，而**摄入含糖软饮料或无糖软饮料会令死亡风险分别增加11%和27%。**
-    * ![饮料](https://user-images.githubusercontent.com/2707039/163704346-e7d92e7f-eba5-4673-8f15-3a96782c2e32.png)
+    * ![饮料](https://s3.bmp.ovh/imgs/2022/04/27/9020125c4ef3ca6b.png)
   * [Association Between Soft Drink Consumption and Mortality in 10 European Countries](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2749350)
 * 有糖饮料
   * [可乐和奶茶，增加全因死亡率高达62%！果汁降低免疫力，影响肝代谢！含糖饮料那些事](https://zhuanlan.zhihu.com/p/400746073)
@@ -194,7 +194,7 @@
     * 二甲双胍不仅在多种肿瘤、心血管疾病及糖尿病中发挥保护作用，而且在肥胖、肝病、肾病及衰老方面也大放异彩。
   * [二甲双胍2020最值得了解的“吃瓜”大新闻——护胃、健脑、抗衰、防癌还是致癌？](https://zhuanlan.zhihu.com/p/357807109)
   * [二甲双胍真的那么神吗？美研究：父亲服用二甲双胍或致子女有缺陷](https://baijiahao.baidu.com/s?id=1729999374705305768)
-  * ![二甲双胍](https://user-images.githubusercontent.com/2707039/163702325-5d427542-9ae5-4311-8979-d0d326a9832f.jpg)
+  * ![二甲双胍](https://s3.bmp.ovh/imgs/2022/04/27/7e4828d1ceda3974.jpg)
   * 不良反应
     * 作为一种使用近百年的药物，二甲双胍的不良反应已经非常明确，常见的有：维生素B12缺乏（7%-17.4%），胃肠道不良反应（最高53%），疲倦（9%），头痛（6%）；严重但不常见的不良反应包括乳酸酸中毒、肝损伤；也有研究表明可能对胎儿致畸
 * 复合维生素
@@ -209,7 +209,7 @@
   * 研究发现，女性的亚精胺摄入量高于男性，并且摄入量都会随着年龄的增长而下降。亚精胺的主要来源是全谷物（占13.4%）、苹果和梨（占13.3%）、沙拉（占9.8%）、芽菜（占7.3%）和马铃薯（占6.4%）。研究根据亚精胺摄入量将人群分为三组，低摄入量组（<62.2 µmol / d）、中摄入量组（62.2–79.8 µmol / d）和高摄入量组（> 79.8 µmol / d）。随访期间共记录了341例死亡，其中血管疾病137例，癌症94例，其他原因110例。经计算低中高三组的粗略死亡率分别为40.5%、23.7%和15.1%，这些数据表明亚精胺摄入量与全因死亡率之间的负相关关系显著。随着逐步对年龄、性别和热量的比例进行调整，这种相关关系依然显著。
 * 综合
   * [《自然》子刊深度综述：如何开发抗衰老药](https://zhuanlan.zhihu.com/p/145495570)
-  * ![如何开发抗衰老药](https://user-images.githubusercontent.com/2707039/163702474-205baeec-f0ce-4e8d-96a4-36efe47534de.jpg)
+  * ![如何开发抗衰老药](https://s3.bmp.ovh/imgs/2022/04/27/c2c211c0e4f5337d.png)
 
 #### 6.2. 输出
 
@@ -222,7 +222,7 @@
 ##### 6.2.2. 走路
 
 * [走路降低全因死亡率超过50%！每天走多少步最合适？《JAMA》子刊超10年研究告诉你答案](http://www.shcell.org/219/3571.html)
-  * ![走路降低全因死亡率](https://user-images.githubusercontent.com/2707039/163704147-afec1c79-799b-4db8-b547-1a2431d504c9.jpg)
+  * ![走路降低全因死亡率](https://s3.bmp.ovh/imgs/2022/04/27/8f306d001232b3ca.png)
   * 注1：这项研究参与者的平均年龄为45.2岁
   * 注2：平均步数的多少与职业有关，此项研究仅表明相关性，还没有更深度的因果分析
 
@@ -247,9 +247,9 @@
 
 * [超30万亚洲人数据：每天睡几个小时最有益长寿？](https://med.sina.com/article_detail_103_1_105491.html)
   * 在男性中，与睡眠时长为7小时相比：睡眠持续时间≥10小时与全因死亡风险增加34%相关；
-  * ![睡眠-男](https://user-images.githubusercontent.com/2707039/163704166-226b7ebb-92ce-4753-a3e7-77a87652a104.jpg)
+  * ![睡眠-男](https://s3.bmp.ovh/imgs/2022/04/27/f6dca9c48d3f12e5.png)
   * 在女性中，与睡眠持续时间7小时相比：睡眠持续时间≥10小时与全因死亡风险增加48%相关；
-  * ![睡眠-女](https://user-images.githubusercontent.com/2707039/163704169-c5c715aa-7130-403b-b0d1-ec34fab094d8.png)
+  * ![睡眠-女](https://s3.bmp.ovh/imgs/2022/04/27/273d00ccbc6465de.png)
 * [颠覆认知！加拿大研究发现：早睡比熬夜或许更伤身，几点睡才好？](https://www.thepaper.cn/newsDetail_forward_14461799)
   * 其中一个结论为，就寝时间与全因死亡率的关联性强，过早睡觉和过晚睡觉都会影响健康，但是早睡增加的全因死亡率比晚睡增加的死亡率高，早睡增加了43%的死亡风险，而晚睡增加了15%的死亡风险。
   * 这项调查研究，还存在很多局限性，比如没有直接证明就寝时间与死亡的关系，仅仅说明相关性，通过参与人群自我报告统计睡眠时间，数据不够客观
